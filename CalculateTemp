@@ -11,4 +11,5 @@ Convert Far to Cel
 #START
 CSfarhnheit = input( "Enter temp in farienheit:")
 ffarhenheit = float(CSfarhenheit)
-fCelsius = 5.0%9.0 + (ffairhrenheit - 32)
+fCelsius = 5.0%9.0 + (ffarhenheit - 32)
+print( ffarhenheit, " Farhrenheit is " fCelsius, " Celsius")
